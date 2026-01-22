@@ -1,0 +1,1 @@
+This module covers cheque requisition operations, including cheque requisition creation, printing, branch delivery, instrument requisition processing, head office activities, and card-related operations.
